@@ -1,0 +1,47 @@
+/* 
+Theme Name: Azadani Dojo
+Theme URI: https://karatestaug.com/
+Description: Agama Lab is a child theme of Hello Elementor, created by Elementor team
+Author: Innvo Tech
+Author URI: https://innvotech.net/
+Template: hello-elementor
+Version: 2.0.0
+Text Domain: agama-lab
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/* Add your custom styles here */
+.calendar-icon {
+    margin: 0 auto;
+}
+.karate-table {
+	overflow-x:auto;
+}
+.karate-table table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+.karate-table thead {
+    background: #004a85;
+}
+.karate-table table tr:nth-child(even) {
+    background: #13182a;
+}
+.karate-table table tr ul {
+    padding-left: 14px;
+}
+.karate-table table tr ul li {
+    list-style: square;
+}
+
+@media screen and (max-width: 1024px) {
+
+   
+}
+@media screen and (max-width: 765px) {
+    
+
+}
